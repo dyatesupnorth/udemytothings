@@ -1,0 +1,11 @@
+{
+  "name": "udemytothings",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "author": "David Yates",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "3.2.5"
+  }
+}
